@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "zh-TW"
-title                    : "New Blog"
+title                    : "How To Rape Ur Job"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "moveurbody"
+description              : "I chose not to choose life. I chose something else."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -53,7 +53,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : true # lunr (default), algolia, google
+search_provider          : default # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "moveurbody"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "How To Rape Ur Job"
+  location         : "Taiwan"
   email            :
   links:
     - label: "Email"
@@ -295,15 +295,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _portfolio
   - scope:
       path: ""
