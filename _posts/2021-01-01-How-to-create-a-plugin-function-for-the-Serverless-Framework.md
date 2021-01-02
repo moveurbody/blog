@@ -61,7 +61,7 @@ We can find the resource ApiGatewayDeployment will be changed to ApiGatewayDeplo
 
 So we can keep deploying the serverless without changing AWS::ApiGateway::Deployment manually for each deployment.
 
-![image] (/assets/images/deploy_apigateway_with_plugin_sceenshot.png)
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/deploy_apigateway_with_plugin_sceenshot.png)
 
 ### Serverless Framework LifecycleEvents for AWS
 If we want to deploy a serverless, there are some steps for a whole serverless lifecycle.
