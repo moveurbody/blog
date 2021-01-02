@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   bio              : "How To Rape Ur Job"
   location         : "Taiwan"
-  email            :
+  email            : "yuhsuan_chen@outlook.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/moveurbody"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
